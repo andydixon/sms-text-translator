@@ -1,0 +1,11 @@
+Text translation system by SMS using Textlocal
+
+edit the index.php page, entering your username and password
+
+Set your Textlocal inbound system to send messages to the index.php file here.
+
+Send a message starting with the language (eg ES for spanish) plus the message, and a response gets sent with the translated text.
+
+NOTE: You will also need to register for an API key from the Microsoft website:
+
+http://www.microsoft.com/web/post/using-the-free-bing-translation-apis
